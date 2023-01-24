@@ -1,0 +1,269 @@
+*{
+  background-color: black;
+  font-family: Century Gothic;
+}
+
+.poster img {
+	background-color: black;
+	transition: 0.6s ease;
+}
+
+.poster img:hover{
+	background-color: #fff;
+	color: #000;
+}
+
+/*================================================== */
+.movie-music ul{
+  float: center;
+	list-style-type: none;
+	margin-top: 25px;
+  margin-right: 30px;
+}
+
+.movie-music ul li{
+	display: inline-block;
+}
+
+.movie-music ul li a{
+	text-decoration: none;
+	color: #fff;
+	padding: 4px 12px;
+	border: 1px solid transparent;
+	transition: 0.6s ease;
+}
+
+.movie-music ul li a:hover{
+	background-color: #fff;
+	color: #000;
+}
+
+.movie-music ul li.active a{
+	background-color: #fff;
+	color: #000;
+}
+/*================================================== */
+
+.moviesplaylist{
+  color: white;
+  align-items: center;
+  align-content: center;
+  text-align: center;
+}
+
+.movie1{
+  width: 360px;
+  height: auto;
+  border: 2px solid white;
+  margin: auto;
+}
+
+.movie1 ul{
+  float: center;
+	list-style-type: none;
+	margin-top: 25px;
+}
+
+.movie1 ul li{
+	display: inline-block;
+}
+
+.movie1 ul li a{
+	text-decoration: none;
+	color: #fff;
+	padding: 4px 12px;
+	border: 1px solid transparent;
+	transition: 0.6s ease;
+}
+
+.movie1 ul li a:hover{
+	background-color: #fff;
+	color: #000;
+}
+
+.movie1 ul li.active a{
+	background-color: #fff;
+	color: #000;
+}
+
+.movie2{
+  width: 360px;
+  height: auto;
+  border: 2px solid white;
+  margin: auto;
+}
+
+.movie2 ul{
+  float: center;
+	list-style-type: none;
+	margin-top: 25px;
+}
+
+.movie2 ul li{
+	display: inline-block;
+}
+
+.movie2 ul li a{
+	text-decoration: none;
+	color: #fff;
+	padding: 4px 12px;
+	border: 1px solid transparent;
+	transition: 0.6s ease;
+}
+
+.movie2 ul li a:hover{
+	background-color: #fff;
+	color: #000;
+}
+
+.movie2 ul li.active a{
+	background-color: #fff;
+	color: #000;
+}
+
+.movie3{
+  width: 360px;
+  height: auto;
+  border: 2px solid white;
+  margin: auto;
+}
+
+.movie3 ul{
+  float: center;
+	list-style-type: none;
+	margin-top: 25px;
+}
+
+.movie3 ul li{
+	display: inline-block;
+}
+
+.movie3 ul li a{
+	text-decoration: none;
+	color: #fff;
+	padding: 4px 12px;
+	border: 1px solid transparent;
+	transition: 0.6s ease;
+}
+
+.movie3 ul li a:hover{
+	background-color: #fff;
+	color: #000;
+}
+
+.movie3 ul li.active a{
+	background-color: #fff;
+	color: #000;
+}
+
+.movie4{
+  width: 360px;
+  height: auto;
+  border: 2px solid white;
+  margin: auto;
+}
+
+.movie4 ul{
+  float: center;
+	list-style-type: none;
+	margin-top: 25px;
+}
+
+.movie4 ul li{
+	display: inline-block;
+}
+
+.movie4 ul li a{
+	text-decoration: none;
+	color: #fff;
+	padding: 4px 12px;
+	border: 1px solid transparent;
+	transition: 0.6s ease;
+}
+
+.movie4 ul li a:hover{
+	background-color: #fff;
+	color: #000;
+}
+
+.movie4 ul li.active a{
+	background-color: #fff;
+	color: #000;
+}
+
+.movie4 ul{
+  float: center;
+	list-style-type: none;
+	margin-top: 25px;
+}
+
+.movie5{
+  width: 360px;
+  height: auto;
+  border: 2px solid white;
+  margin: auto;
+}
+
+.movie5 ul{
+  float: center;
+	list-style-type: none;
+	margin-top: 25px;
+}
+
+.movie5 ul li{
+	display: inline-block;
+}
+
+.movie5 ul li a{
+	text-decoration: none;
+	color: #fff;
+	padding: 4px 12px;
+	border: 2px solid transparent;
+	transition: 0.6s ease;
+}
+
+.movie5 ul li a:hover{
+	background-color: #fff;
+	color: #000;
+}
+
+.movie5 ul li.active a{
+	background-color: #fff;
+	color: #000;
+}
+
+.movie6{
+  width: 360px;
+  height: auto;
+  border: 2px solid white;
+  margin: auto;
+  background-color: black;
+}
+
+.movie6 ul{
+  float: center;
+	list-style-type: none;
+	margin-top: 25px;
+}
+
+.movie6 ul li{
+	display: inline-block;
+}
+
+.movie6 ul li a{
+	text-decoration: none;
+	color: #fff;
+	padding: 4px 12px;
+	border: 2px solid transparent;
+	transition: 0.6s ease;
+}
+
+.movie6 ul li a:hover{
+	background-color: #fff;
+	color: #000;
+}
+
+.movie6 ul li.active a{
+	background-color: #fff;
+	color: #000;
+}
