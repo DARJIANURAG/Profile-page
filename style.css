@@ -267,3 +267,147 @@
 	background-color: #fff;
 	color: #000;
 }
+
+.movie7{
+  width: 360px;
+  height: auto;
+  border: 2px solid white;
+  margin: auto;
+  background-color: black;
+}
+
+.movie7 ul{
+  float: center;
+	list-style-type: none;
+	margin-top: 25px;
+}
+
+.movie7 ul li{
+	display: inline-block;
+}
+
+.movie7 ul li a{
+	text-decoration: none;
+	color: #fff;
+	padding: 4px 12px;
+	border: 2px solid transparent;
+	transition: 0.6s ease;
+}
+
+.movie7 ul li a:hover{
+	background-color: #fff;
+	color: #000;
+}
+
+.movie7 ul li.active a{
+	background-color: #fff;
+	color: #000;
+}
+
+.movie8{
+  width: 360px;
+  height: auto;
+  border: 2px solid white;
+  margin: auto;
+  background-color: black;
+}
+
+.movie8 ul{
+  float: center;
+	list-style-type: none;
+	margin-top: 25px;
+}
+
+.movie8 ul li{
+	display: inline-block;
+}
+
+.movie8 ul li a{
+	text-decoration: none;
+	color: #fff;
+	padding: 4px 12px;
+	border: 2px solid transparent;
+	transition: 0.6s ease;
+}
+
+.movie8 ul li a:hover{
+	background-color: #fff;
+	color: #000;
+}
+
+.movie8 ul li.active a{
+	background-color: #fff;
+	color: #000;
+}
+
+.movie9{
+  width: 360px;
+  height: auto;
+  border: 2px solid white;
+  margin: auto;
+  background-color: black;
+}
+
+.movie9 ul{
+  float: center;
+	list-style-type: none;
+	margin-top: 25px;
+}
+
+.movie9 ul li{
+	display: inline-block;
+}
+
+.movie9 ul li a{
+	text-decoration: none;
+	color: #fff;
+	padding: 4px 12px;
+	border: 2px solid transparent;
+	transition: 0.6s ease;
+}
+
+.movie9 ul li a:hover{
+	background-color: #fff;
+	color: #000;
+}
+
+.movie9 ul li.active a{
+	background-color: #fff;
+	color: #000;
+}
+
+.movie10{
+  width: 360px;
+  height: auto;
+  border: 2px solid white;
+  margin: auto;
+  background-color: black;
+}
+
+.movie10 ul{
+  float: center;
+	list-style-type: none;
+	margin-top: 25px;
+}
+
+.movie10 ul li{
+	display: inline-block;
+}
+
+.movie10 ul li a{
+	text-decoration: none;
+	color: #fff;
+	padding: 4px 12px;
+	border: 2px solid transparent;
+	transition: 0.6s ease;
+}
+
+.movie10 ul li a:hover{
+	background-color: #fff;
+	color: #000;
+}
+
+.movie10 ul li.active a{
+	background-color: #fff;
+	color: #000;
+}
