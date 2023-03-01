@@ -411,3 +411,364 @@
 	background-color: #fff;
 	color: #000;
 }
+
+.movie11{
+  width: 360px;
+  height: auto;
+  border: 2px solid white;
+  margin: auto;
+  background-color: black;
+}
+
+.movie11 ul{
+  float: center;
+	list-style-type: none;
+	margin-top: 25px;
+}
+
+.movie11 ul li{
+	display: inline-block;
+}
+
+.movie11 ul li a{
+	text-decoration: none;
+	color: #fff;
+	padding: 4px 12px;
+	border: 2px solid transparent;
+	transition: 0.6s ease;
+}
+
+.movie11 ul li a:hover{
+	background-color: #fff;
+	color: #000;
+}
+
+.movie11 ul li.active a{
+	background-color: #fff;
+	color: #000;
+}
+
+.movie12{
+  width: 360px;
+  height: auto;
+  border: 2px solid white;
+  margin: auto;
+  background-color: black;
+}
+
+.movie12 ul{
+  float: center;
+	list-style-type: none;
+	margin-top: 25px;
+}
+
+.movie12 ul li{
+	display: inline-block;
+}
+
+.movie12 ul li a{
+	text-decoration: none;
+	color: #fff;
+	padding: 4px 12px;
+	border: 2px solid transparent;
+	transition: 0.6s ease;
+}
+
+.movie12 ul li a:hover{
+	background-color: #fff;
+	color: #000;
+}
+
+.movie12 ul li.active a{
+	background-color: #fff;
+	color: #000;
+}
+
+.movie13{
+  width: 360px;
+  height: auto;
+  border: 2px solid white;
+  margin: auto;
+  background-color: black;
+}
+
+.movie13 ul{
+  float: center;
+	list-style-type: none;
+	margin-top: 25px;
+}
+
+.movie13 ul li{
+	display: inline-block;
+}
+
+.movie13 ul li a{
+	text-decoration: none;
+	color: #fff;
+	padding: 4px 12px;
+	border: 2px solid transparent;
+	transition: 0.6s ease;
+}
+
+.movie13 ul li a:hover{
+	background-color: #fff;
+	color: #000;
+}
+
+.movie13 ul li.active a{
+	background-color: #fff;
+	color: #000;
+}
+
+.movie14{
+  width: 360px;
+  height: auto;
+  border: 2px solid white;
+  margin: auto;
+  background-color: black;
+}
+
+.movie14 ul{
+  float: center;
+	list-style-type: none;
+	margin-top: 25px;
+}
+
+.movie14 ul li{
+	display: inline-block;
+}
+
+.movie14 ul li a{
+	text-decoration: none;
+	color: #fff;
+	padding: 4px 12px;
+	border: 2px solid transparent;
+	transition: 0.6s ease;
+}
+
+.movie14 ul li a:hover{
+	background-color: #fff;
+	color: #000;
+}
+
+.movie14 ul li.active a{
+	background-color: #fff;
+	color: #000;
+}
+
+.movie15{
+  width: 360px;
+  height: auto;
+  border: 2px solid white;
+  margin: auto;
+  background-color: black;
+}
+
+.movie15 ul{
+  float: center;
+	list-style-type: none;
+	margin-top: 25px;
+}
+
+.movie15 ul li{
+	display: inline-block;
+}
+
+.movie15 ul li a{
+	text-decoration: none;
+	color: #fff;
+	padding: 4px 12px;
+	border: 2px solid transparent;
+	transition: 0.6s ease;
+}
+
+.movie15 ul li a:hover{
+	background-color: #fff;
+	color: #000;
+}
+
+.movie15 ul li.active a{
+	background-color: #fff;
+	color: #000;
+}
+
+.movie16{
+  width: 360px;
+  height: auto;
+  border: 2px solid white;
+  margin: auto;
+  background-color: black;
+}
+
+.movie16 ul{
+  float: center;
+	list-style-type: none;
+	margin-top: 25px;
+}
+
+.movie16 ul li{
+	display: inline-block;
+}
+
+.movie16 ul li a{
+	text-decoration: none;
+	color: #fff;
+	padding: 4px 12px;
+	border: 2px solid transparent;
+	transition: 0.6s ease;
+}
+
+.movie16 ul li a:hover{
+	background-color: #fff;
+	color: #000;
+}
+
+.movie16 ul li.active a{
+	background-color: #fff;
+	color: #000;
+}
+
+.movie17{
+  width: 360px;
+  height: auto;
+  border: 2px solid white;
+  margin: auto;
+  background-color: black;
+}
+
+.movie17 ul{
+  float: center;
+	list-style-type: none;
+	margin-top: 25px;
+}
+
+.movie17 ul li{
+	display: inline-block;
+}
+
+.movie17 ul li a{
+	text-decoration: none;
+	color: #fff;
+	padding: 4px 12px;
+	border: 2px solid transparent;
+	transition: 0.6s ease;
+}
+
+.movie17 ul li a:hover{
+	background-color: #fff;
+	color: #000;
+}
+
+.movie17 ul li.active a{
+	background-color: #fff;
+	color: #000;
+}
+
+.movie18{
+  width: 360px;
+  height: auto;
+  border: 2px solid white;
+  margin: auto;
+  background-color: black;
+}
+
+.movie18 ul{
+  float: center;
+	list-style-type: none;
+	margin-top: 25px;
+}
+
+.movie18 ul li{
+	display: inline-block;
+}
+
+.movie18 ul li a{
+	text-decoration: none;
+	color: #fff;
+	padding: 4px 12px;
+	border: 2px solid transparent;
+	transition: 0.6s ease;
+}
+
+.movie18 ul li a:hover{
+	background-color: #fff;
+	color: #000;
+}
+
+.movie18 ul li.active a{
+	background-color: #fff;
+	color: #000;
+}
+
+.movie19{
+  width: 360px;
+  height: auto;
+  border: 2px solid white;
+  margin: auto;
+  background-color: black;
+}
+
+.movie19 ul{
+  float: center;
+	list-style-type: none;
+	margin-top: 25px;
+}
+
+.movie19 ul li{
+	display: inline-block;
+}
+
+.movie19 ul li a{
+	text-decoration: none;
+	color: #fff;
+	padding: 4px 12px;
+	border: 2px solid transparent;
+	transition: 0.6s ease;
+}
+
+.movie19 ul li a:hover{
+	background-color: #fff;
+	color: #000;
+}
+
+.movie19 ul li.active a{
+	background-color: #fff;
+	color: #000;
+}
+
+.movie20{
+  width: 360px;
+  height: auto;
+  border: 2px solid white;
+  margin: auto;
+  background-color: black;
+}
+
+.movie20 ul{
+  float: center;
+	list-style-type: none;
+	margin-top: 25px;
+}
+
+.movie20 ul li{
+	display: inline-block;
+}
+
+.movie20 ul li a{
+	text-decoration: none;
+	color: #fff;
+	padding: 4px 12px;
+	border: 2px solid transparent;
+	transition: 0.6s ease;
+}
+
+.movie20 ul li a:hover{
+	background-color: #fff;
+	color: #000;
+}
+
+.movie20 ul li.active a{
+	background-color: #fff;
+	color: #000;
+}
+
