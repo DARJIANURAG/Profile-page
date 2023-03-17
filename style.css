@@ -61,7 +61,6 @@
 
 .movie1 ul{
   float: center;
-	border-radius: 15px;
 	list-style-type: none;
 	margin-top: 25px;
 }
@@ -71,6 +70,7 @@
 }
 
 .movie1 ul li a{
+	border-radius: 15px;
 	text-decoration: none;
 	color: #fff;
 	padding: 4px 12px;
