@@ -27,6 +27,7 @@
 
 .movie-music ul li a{
 	text-decoration: none;
+	border-radius: 15px;
 	color: #fff;
 	padding: 4px 12px;
 	border: 1px solid transparent;
@@ -60,6 +61,7 @@
 
 .movie1 ul{
   float: center;
+	border-radius: 15px;
 	list-style-type: none;
 	margin-top: 25px;
 }
