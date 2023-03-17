@@ -35,6 +35,7 @@
 }
 
 .movie-music ul li a:hover{
+	border-radius: 15px;
 	background-color: #fff;
 	color: #000;
 }
