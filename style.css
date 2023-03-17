@@ -67,6 +67,7 @@
 
 .movie1 ul li{
 	display: inline-block;
+	padding: 1px;
 }
 
 .movie1 ul li a{
@@ -106,6 +107,7 @@
 }
 
 .movie2 ul li a{
+	border-radius: 15px;
 	text-decoration: none;
 	color: #fff;
 	padding: 4px 12px;
@@ -141,6 +143,7 @@
 }
 
 .movie3 ul li a{
+	border-radius: 15px;
 	text-decoration: none;
 	color: #fff;
 	padding: 4px 12px;
@@ -176,6 +179,7 @@
 }
 
 .movie4 ul li a{
+	border-radius: 15px;
 	text-decoration: none;
 	color: #fff;
 	padding: 4px 12px;
@@ -217,6 +221,7 @@
 }
 
 .movie5 ul li a{
+	border-radius: 15px;
 	text-decoration: none;
 	color: #fff;
 	padding: 4px 12px;
@@ -253,6 +258,7 @@
 }
 
 .movie6 ul li a{
+	border-radius: 15px;
 	text-decoration: none;
 	color: #fff;
 	padding: 4px 12px;
@@ -289,6 +295,7 @@
 }
 
 .movie7 ul li a{
+	border-radius: 15px;
 	text-decoration: none;
 	color: #fff;
 	padding: 4px 12px;
@@ -325,6 +332,7 @@
 }
 
 .movie8 ul li a{
+	border-radius: 15px;
 	text-decoration: none;
 	color: #fff;
 	padding: 4px 12px;
@@ -361,6 +369,7 @@
 }
 
 .movie9 ul li a{
+	border-radius: 15px;
 	text-decoration: none;
 	color: #fff;
 	padding: 4px 12px;
@@ -397,6 +406,7 @@
 }
 
 .movie10 ul li a{
+	border-radius: 15px;
 	text-decoration: none;
 	color: #fff;
 	padding: 4px 12px;
@@ -433,6 +443,7 @@
 }
 
 .movie11 ul li a{
+	border-radius: 15px;
 	text-decoration: none;
 	color: #fff;
 	padding: 4px 12px;
@@ -469,6 +480,7 @@
 }
 
 .movie12 ul li a{
+	border-radius: 15px;
 	text-decoration: none;
 	color: #fff;
 	padding: 4px 12px;
@@ -505,6 +517,7 @@
 }
 
 .movie13 ul li a{
+	border-radius: 15px;
 	text-decoration: none;
 	color: #fff;
 	padding: 4px 12px;
@@ -541,6 +554,7 @@
 }
 
 .movie14 ul li a{
+	border-radius: 15px;
 	text-decoration: none;
 	color: #fff;
 	padding: 4px 12px;
@@ -577,6 +591,7 @@
 }
 
 .movie15 ul li a{
+	border-radius: 15px;
 	text-decoration: none;
 	color: #fff;
 	padding: 4px 12px;
@@ -613,6 +628,7 @@
 }
 
 .movie16 ul li a{
+	border-radius: 15px;
 	text-decoration: none;
 	color: #fff;
 	padding: 4px 12px;
@@ -649,6 +665,7 @@
 }
 
 .movie17 ul li a{
+	border-radius: 15px;
 	text-decoration: none;
 	color: #fff;
 	padding: 4px 12px;
@@ -685,6 +702,7 @@
 }
 
 .movie18 ul li a{
+	border-radius: 15px;
 	text-decoration: none;
 	color: #fff;
 	padding: 4px 12px;
@@ -721,6 +739,7 @@
 }
 
 .movie19 ul li a{
+	border-radius: 15px;
 	text-decoration: none;
 	color: #fff;
 	padding: 4px 12px;
@@ -757,6 +776,7 @@
 }
 
 .movie20 ul li a{
+	border-radius: 15px;
 	text-decoration: none;
 	color: #fff;
 	padding: 4px 12px;
