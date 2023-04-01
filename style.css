@@ -35,7 +35,7 @@
 	justify-content: center;
 	list-style-type: none;
 	margin-top: 25px;
-	cursor: pointer;
+/* 	cursor: pointer; */
 }
 
 .button ul li{
