@@ -1,0 +1,126 @@
+*{
+	margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+	background-color: rgb(36, 32, 47);
+	font-family: 'Josefin Sans',sans-serif;
+	align-items: center;
+}
+
+.main{
+	position: relative;
+    justify-content: center;
+    align-items: center;
+	justify-content: center;
+}
+
+.dark-light {
+	color: white;
+	cursor: pointer;
+	float: right;
+	padding-top: 5px;
+	padding-right: 40px;
+    border-radius: 50%;
+    font-size: 35px;
+	transition: 0.6s ease;
+}
+
+.dark-light i:hover{
+	color: rgb(255, 0, 85);
+}
+
+.button ul{
+	text-align: center;
+	padding-top: 130px;
+	justify-content: center;
+	list-style-type: none;
+	margin-top: 25px;
+	cursor: pointer;
+}
+
+.button ul li{
+	display: inline-block;
+    padding: 3px;
+}
+
+.button ul li a{
+	font-size: 15px;
+	text-decoration: none;
+    border-radius: 20px;
+	color: white;
+	padding: 6px 23px;
+	border: 1px solid white;
+	transition: 0.6s ease;
+}
+
+.button ul li a:hover{
+	border: 1px solid rgb(255, 0, 85);
+	color: rgb(255, 0, 85);
+}
+
+.button ul li.active a{
+	border: 1px solid rgb(255, 0, 85);
+	color: rgb(255, 0, 85);
+}
+
+/* hr{
+	margin-left: 630px;
+	width: 40px;
+} */
+
+.profile img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 3px 3px;
+	border: 1.5px solid rgb(255, 0, 85);
+	border-radius: 62%;
+}
+
+.info h1{
+	text-align: center;
+	color: white;
+}
+
+.info hr{
+	margin-left: 630px
+	width: 10px;
+}
+
+.info h5{
+	text-align: center;
+	font-family: sans-serif;
+	color: rgb(255, 0, 85);
+}
+
+.info h3{
+	text-align: center;
+	color: white;
+}
+
+h5{
+	color: white;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+.link {
+	color: white;
+	cursor: pointer;
+	text-align: center;
+	float: center;
+    font-size: 25px;
+	transition: 0.6s ease;
+	padding: 0;
+	justify-content: space-between;
+}
+.link a{
+	color: white;
+}
+.link i{
+	padding: 15px;
+}
+
+.link i:hover{
+	color: rgb(255, 0, 85);
+}
