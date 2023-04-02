@@ -109,7 +109,7 @@ h5{
 	text-align: center;
 	float: center;
     font-size: 25px;
-	transition: 2s ease;
+	transition: 0.6s ease;
 	padding: 0;
 	justify-content: space-between;
 }
