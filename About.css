@@ -69,10 +69,16 @@
 	width: 40px;
 } */
 
-.about h4{
-    color: white;
-/*     font-family: sans-serif; */
-    text-align: center;
+.about{
+	margin: 10px;
+}
+
+.about p{
+	line-height: 23px;
+	padding-left: 473px;
+	padding-right: 473px;
+        color: white;
+        text-align: left;
 }
 
 h5{
