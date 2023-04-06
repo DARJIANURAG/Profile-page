@@ -54,11 +54,13 @@
 
 .button ul li a:hover{
 	border: 1px solid rgb(255, 0, 85);
+        border-radius: 20px;
 	color: rgb(255, 0, 85);
 }
 
 .button ul li.active a{
 	border: 1px solid rgb(255, 0, 85);
+	border-radius: 20px;
 	color: rgb(255, 0, 85);
 }
 
